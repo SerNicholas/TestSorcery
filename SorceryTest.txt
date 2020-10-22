@@ -1,2 +1,4 @@
 Ovo je prvi komit.
 Nastavljamo dalje....sada je ovo vec drugi commit
+
+Ovo je prvi commit na new branch koju smo cherry pick iz druge grane 
