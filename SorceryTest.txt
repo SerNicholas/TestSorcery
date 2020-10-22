@@ -4,3 +4,4 @@ Nastavljamo dalje....sada je ovo vec drugi commit
 Ovo je prvi commit na new branch koju smo cherry pick iz druge grane 
 Second commit on the new branch
 Third commit on the new branch
+Cetvrti commit na prvoj novoj grani
