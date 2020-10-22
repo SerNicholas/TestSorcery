@@ -1,3 +1,4 @@
 Ovo je prvi komit.
 Nastavljamo dalje....sada je ovo vec drugi commit
 Treci commit
+Cetvrti commit
